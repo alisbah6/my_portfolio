@@ -1,0 +1,26 @@
+.my-name{
+    font-size: 20px;
+    color:white;
+    text-align: start;
+    margin:0px 0px 0px 20px;
+}
+nav {
+    text-align: center; 
+    background-color: #333; 
+    padding: 10px 0;
+}
+.item{
+        margin: 0;
+        padding: 0;
+        display: inline-block; 
+        display: inline; 
+        margin-right: 20px; 
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 10px 15px;
+        border-radius: 5px;
+}
+.item:hover {
+    background-color: #555; 
+}
